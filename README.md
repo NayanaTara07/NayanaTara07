@@ -1,6 +1,4 @@
-Hello! I am NayanaTara 
-
-# NayanaTara
+# Hello! I am NayanaTara 
 
 👩‍💻 Computer Science Engineering Junior  
 🎓 Currently pursuing my 3rd year  
