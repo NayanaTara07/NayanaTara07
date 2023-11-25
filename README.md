@@ -11,8 +11,9 @@ Hello! I am NayanaTara
 # Contact Information
 
 Feel free to reach out to me on WhatsApp for any inquiries or collaboration opportunities! 🚀📱
+📞 **WhatsApp:** +91 9515951607
 
-![📞 **WhatsApp:** +91 9515951607](https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif)
+![ **WhatsApp:** +91 9515951607](https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png)
 
 I look forward to connecting with you! 😊🌐
 
