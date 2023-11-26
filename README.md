@@ -4,7 +4,7 @@
 🎓 Currently pursuing my 3rd year  
 ✨ Enthusiastic and creative learner  
 🌱 Always seeking new knowledge and challenges  
-🔗 [GitHub](https://github.com/NayanaTara07)
+🔗 [GitHub](https://github.com/NayanaTara07?tab=repositories)
 
 # Contact Information
 
