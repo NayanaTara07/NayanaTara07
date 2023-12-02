@@ -10,8 +10,7 @@
 
 🤝 Feel free to connect with me on LinkedIn for any inquiries or collaboration opportunities! 🚀
 
-
-<a href="www.linkedin.com/in/nayanatara-raj-beela-0b86a9297" target="blank">LinkedIn </a>
+🔗 LinkedIn Profile: [LinkedIn](www.linkedin.com/in/nayanatara-raj-beela-0b86a9297)
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50" height="50"/>
 
