@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Hello! I am NayanaTara 
 ! [Visitor Count] (https://profile-counter.glitch.me/ {https://github.com/NayanaTara07}/count.svg)
-
+# Hello! I am NayanaTara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+>>>>>>> 1d5ef5e9d4779667c992f64b4f887639bec1efc9
 =======
 
 👩‍💻 Computer Science Engineering Junior  
