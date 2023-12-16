@@ -1,20 +1,23 @@
+<<<<<<< HEAD
 # Hello! I am NayanaTara 
 ! [Visitor Count] (https://profile-counter.glitch.me/ {https://github.com/NayanaTara07}/count.svg)
+=======
+
+# Hello! I am NayanaTara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+>>>>>>> 1d5ef5e9d4779667c992f64b4f887639bec1efc9
 
 👩‍💻 Computer Science Engineering Junior  
 🎓 Currently pursuing my 3rd year  
 ✨ Enthusiastic and creative learner  
 🌱 Always seeking new knowledge and challenges  
-🔗 [GitHub](https://github.com/NayanaTara07?tab=repositories)
-
-# Contact Information
-
-🤝 Feel free to connect with me on LinkedIn for any inquiries or collaboration opportunities! 🚀
-
-🔗 LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/nayanatara-raj-beela-0b86a9297/)
-
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50" height="50"/>
-
-I look forward to connecting with you professionally! 😊🌐
 
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://linkedin.com/in/nayanatara07" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayanatara07" height="30" width="40" /></a>
+<a href="https://instagram.com/nayana_1607_tara"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayana_1607_tara" height="30" width="40" /></a>
+<p/>
+  
+
+<a href="https://github.com/nayanatara07/github-readme-stats"><img  alt="NayanaTara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatara07&langs_count=10&count_private=true&layout=compact&theme=react&border=5493F7&bg_color=0D1117" /></a>
+<img align = "right" src="https://github-readme-streak-stats.herokuapp.com?user=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=425px alt="GitHub stats"/>
