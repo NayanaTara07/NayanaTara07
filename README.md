@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-! [Visitor Count] (https://profile-counter.glitch.me/{https://github.com/NayanaTara07}/count.svg)
+
+![image title](https://rushter.com/counter.svg)
 # Hello! I am NayanaTara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-=======
 
 👩‍💻 Computer Science Engineering Junior  
 🎓 Currently pursuing my 3rd year  
