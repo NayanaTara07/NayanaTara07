@@ -1,4 +1,5 @@
 # Hello! I am NayanaTara 
+![](https://komarev.com/ghpvc/?username=newb-dev-1008&color=green&label=Profile+Visits)
 
 👩‍💻 Computer Science Engineering Junior  
 🎓 Currently pursuing my 3rd year  
