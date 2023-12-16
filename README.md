@@ -1,5 +1,5 @@
 
-![image title](https://rushter.com/counter.svg)
+![Visitor Count](https://profile-counter.glitch.me/{nayanatara07}/count.svg)
 # Hello! I am NayanaTara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 
