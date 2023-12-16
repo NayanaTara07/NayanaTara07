@@ -1,5 +1,5 @@
 # Hello! I am NayanaTara 
-![](https://komarev.com/ghpvc/?username=newb-dev-1008&color=green&label=Profile+Visits)
+! [Visitor Count] (https://profile-counter.glitch.me/ {https://github.com/NayanaTara07}/count.svg)
 
 👩‍💻 Computer Science Engineering Junior  
 🎓 Currently pursuing my 3rd year  
