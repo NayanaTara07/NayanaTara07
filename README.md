@@ -1,11 +1,11 @@
 # Hello! I am NayanaTara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<a href="https://github.com/nayanatara07/github-readme-stats"><img align="right"  alt="NayanaTara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatara07&langs_count=10&count_private=true&layout=compact&theme=react&border=5493F7&bg_color=0D1117" /></a>
 
 
 👩‍💻 Computer Science Engineering Junior  
 🎓 Currently pursuing my 3rd year  
 ✨ Enthusiastic and creative learner  
 🌱 Always seeking new knowledge and challenges  
-<img align = "right" src="https://github-readme-streak-stats.herokuapp.com?user=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=425px alt="GitHub stats"/>
 
 
 
@@ -17,5 +17,5 @@
 <p/>
   
 
-<a href="https://github.com/nayanatara07/github-readme-stats"><img  alt="NayanaTara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatara07&langs_count=10&count_private=true&layout=compact&theme=react&border=5493F7&bg_color=0D1117" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=425px alt="GitHub stats"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=400px alt="GitHub stats"/>
