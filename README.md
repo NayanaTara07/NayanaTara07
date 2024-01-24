@@ -2,11 +2,9 @@
 <a href="https://github.com/nayanatara07/github-readme-stats"><img align="right"  alt="NayanaTara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatara07&langs_count=10&count_private=true&layout=compact&theme=react&border=5493F7&bg_color=0D1117" /></a>
 
 
-👩‍💻 Computer Science Engineering Junior  
-🎓 Currently pursuing my 3rd year  
+🎓 Currently pursuing B.Tech CSE 3rd year  
 ✨ Enthusiastic and creative learner  
 🌱 Always seeking new knowledge and challenges  
-
 
 
 
