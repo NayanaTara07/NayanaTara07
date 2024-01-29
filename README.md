@@ -13,6 +13,6 @@
 <a href="https://instagram.com/nayana_1607_tara"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayana_1607_tara" height="30" width="40" /></a>
 <p/>
 
-<img align='left' src="https://github-readme-streak-stats.herokuapp.com?user=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=420px alt="GitHub stats"/>
+<img align='left' src="https://github-readme-streak-stats.herokuapp.com?user=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=400px alt="GitHub stats"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=400px alt="GitHub stats"/>
