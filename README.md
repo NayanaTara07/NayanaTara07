@@ -15,4 +15,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=425px alt="GitHub stats"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=400px alt="GitHub stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nayanatara07&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=390px alt="GitHub stats"/>
